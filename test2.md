@@ -1,1 +1,4 @@
 ## testing GIT
+* line 1
+* line 2
+** line 2.1
